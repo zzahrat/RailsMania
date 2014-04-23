@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="4259562365">
+    <data-source source="LOCAL" name="Rails RailsMania: development" uuid="d0a617bd-34eb-4af7-b314-c4f5f01685cb">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:rails_mania_dev_db</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfc7dfd0dfd0df9ddf92df93dfe7dff0dff0</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails RailsMania: test" uuid="39a1b1cc-4883-4975-acd2-a6650b26fbda">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:rails_mania_test_db</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfc7dfd0dfd0df9ddf92df93dfe7dff0dff0</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails RailsMania: production" uuid="b248f110-6f75-4dec-b910-eabec517289a">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:rails_mania_prod_db</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfc7dfd0dfd0df9ddf92df93dfe7dff0dff0</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
